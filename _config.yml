@@ -1,40 +1,52 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+title: "Yiran Wang"
+name: "Yiran Wang"
+subtitle: "Assistant Professor of Mathematics"
+email: "ywang348@ua.edu"
 
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-baseurl: "/academic-homepage" # the subpath of your site, e.g. /blog
+description: >-
+  I am an Assistant Professor in the Department of Mathematics at The University of Alabama.
+  My research focuses on numerical analysis, multiscale finite element methods, reduced-order modeling,
+  and operator learning for partial differential equations and inverse problems.
+
+# The base URL of your site (empty for user/username.github.io sites)
+baseurl: ""
+
+# The full URL of your site
+url: "https://wongelle08.github.io"
+
+# ========== Author / profile ==========
+author:
+  name: "Yiran Wang"
+  position: "Assistant Professor of Mathematics"
+  affiliation: "Department of Mathematics, The University of Alabama"
+  location: "Tuscaloosa, Alabama, USA"
+  email: "ywang348@ua.edu"
+  scholar_url: "https://scholar.google.com/citations?user=G73sZEAAAAAJ"
+  github: "https://github.com/wongelle08"
+
+# ========== Navigation bar ==========
+nav_pages:
+  - name: "Home"
+    url: "/"
+  - name: "Research"
+    url: "/research/"
+  - name: "Publications"
+    url: "/publications/"
+  - name: "Teaching"
+    url: "/teaching/"
+  - name: "CV"
+    url: "/cv/"
+  - name: "Contact"
+    url: "/contact/"
+
+# ========== Theme & markdown ==========
+markdown: kramdown
+highlighter: rouge
+
+# if your template uses a theme, keep or adjust this line:
+# theme: minima
 
 # Build settings
-markdown: kramdown
 plugins:
-  - jekyll-email-protect
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
-
-# timezone: Asia/Shanghai
-
-collections:
-  - publications
-  - news
-  - showcase
+  - jekyll-feed
+  - jekyll-seo-tag
