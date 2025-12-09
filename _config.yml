@@ -1,53 +1,11 @@
-# ========== Basic site info ==========
 title: "Yiran Wang"
-name: "Yiran Wang"
-subtitle: "Assistant Professor of Mathematics"
+description: "Assistant Professor of Mathematics at The University of Alabama"
 email: "ywang348@ua.edu"
 
-description: >-
-  I am an Assistant Professor in the Department of Mathematics at The University of Alabama.
-  My research focuses on numerical analysis, multiscale finite element methods, reduced-order modeling,
-  and operator learning for partial differential equations and inverse problems.
-
-# The base URL of your site (empty for user/username.github.io sites)
+url: "https://wongelle08.github.io"
 baseurl: ""
 
-# The full URL of your site
-url: "https://wongelle08.github.io"
+theme: jekyll-theme-primer
 
-# ========== Author / profile ==========
 author:
   name: "Yiran Wang"
-  position: "Assistant Professor of Mathematics"
-  affiliation: "Department of Mathematics, The University of Alabama"
-  location: "Tuscaloosa, Alabama, USA"
-  email: "ywang348@ua.edu"
-  scholar_url: "https://scholar.google.com/citations?user=G73sZEAAAAAJ"
-  github: "https://github.com/wongelle08"
-
-# ========== Navigation bar ==========
-nav_pages:
-  - name: "Home"
-    url: "/"
-  - name: "Research"
-    url: "/research/"
-  - name: "Publications"
-    url: "/publications/"
-  - name: "Teaching"
-    url: "/teaching/"
-  - name: "CV"
-    url: "/cv/"
-  - name: "Contact"
-    url: "/contact/"
-
-# ========== Theme & markdown ==========
-markdown: kramdown
-highlighter: rouge
-
-# if your template uses a theme, keep or adjust this line:
-# theme: minima
-
-# Build settings
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
