@@ -10,16 +10,15 @@ My research focuses on numerical analysis, multiscale finite element methods,
 reduced-order modeling, and operator learning for partial differential equations (PDEs)
 and inverse problems.
 
-I am particularly interested in combining classical numerical methods with modern
-neural operator and deep learning architectures to solve and invert multiscale and
-random PDE models arising in wave propagation, porous media flow, and related applications.
-
 ---
+## Short Bio
 
-## News
+I obtained my B.Sc. in Mathematics from Central China Normal University (2014–2018) and my Ph.D.
+in Mathematics from The Chinese University of Hong Kong (2018–2022), supervised by Prof. Eric Chung. 
+From 2022 to 2024, I was a Golomb Visiting Assistant Professor at Purdue University, where I worked
+with Prof. Suchuan Dong.
 
-- 2025 – New paper on operator learning for inverse Schrödinger problems accepted.
-- 2025 – Started as Assistant Professor in the Department of Mathematics at UA.
+I joined The University of Alabama as an Assistant Professor of Mathematics in 2024.
 
 ---
 
@@ -36,6 +35,21 @@ random PDE models arising in wave propagation, porous media flow, and related ap
 
 A complete and up-to-date list of my publications is available on my  
 [Google Scholar profile](https://scholar.google.com/citations?user=G73sZEAAAAAJ).
+
+---
+## Teaching
+
+Since joining The University of Alabama, I have taught both undergraduate and graduate courses in applied and computational mathematics. These include:
+
+### Undergraduate Courses
+- **MATH 237 – Introduction to Linear Algebra**  
+
+- **MATH 359 – Mathematical Theory of Data Science**  
+
+### Graduate Course
+- **MATH 511 – Numerical Analysis I**  
+
+I aim to help students develop strong mathematical foundations while connecting theory with computation, modeling, and modern data-driven methodologies.
 
 ---
 
