@@ -27,7 +27,7 @@ I joined The University of Alabama as an Assistant Professor of Mathematics in 2
 
 - Multiscale finite element methods (e.g., GMsFEM)  
 - Reduced-order modeling and model reduction for parametrized and stochastic PDEs  
-- Operator learning and neural networks for PDEs (e.g., DeepONet-type architectures)  
+- Operator learning and neural networks for PDEs 
 - Inverse problems for nonlinear Schrödinger equations and multiscale flow  
 
 ---
