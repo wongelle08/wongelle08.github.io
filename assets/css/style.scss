@@ -1,0 +1,11 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Hide the top theme header that shows "Your Name" */
+.page-header,
+.site-header,
+header[role="banner"] {
+  display: none;
+}
