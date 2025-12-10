@@ -4,6 +4,7 @@ title: "Home"
 ---
 
 # Yiran Wang
+<img src="/Yiran.jpg" alt="Yiran Wang photo" style="float:right; width:180px; border-radius:8px; margin: 0 0 15px 20px;">
 
 I am an Assistant Professor in the Department of Mathematics at The University of Alabama.
 My research focuses on numerical analysis, multiscale finite element methods,
